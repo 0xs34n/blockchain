@@ -2,11 +2,11 @@
   <br>
   <a href="https://blockchaindemo.io" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/seanseany/blockchain/master/logo.png" width="200"></a>
   <br>
-    Blockchaindemo.io
+    <a href="https://blockchaindemo.io" rel="noopener noreferrer" target="_blank">Blockchaindemo.io</a>
   <br>
 </h1>
 
-<h4 align="center">Code explanations for <a href="https://blockchaindemo.io" rel="noopener noreferrer" target="_blank">Blockchaindemo.io</a></h4>
+<h4 align="center">Code for learning the blockchain data structure.</h4>
 
 <br>
 
