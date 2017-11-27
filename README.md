@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Code for learning the blockchain data structure.</h4>
+<h4 align="center">Code for learning the blockchain data structure</h4>
 
 <br>
 
