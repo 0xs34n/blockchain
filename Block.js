@@ -1,14 +1,4 @@
-class Block {
-  constructor (index, previousHash, timestamp, data, hash, nonce) {
-    this.index = index;
-    this.previousHash = previousHash;
-    this.timestamp = timestamp;
-    this.data = data;
-    this.hash = hash;
-    this.nonce = nonce;
-  }
-
-  static get genesis() {
+enesis() {
     return new Block(
       0,
       "0",
