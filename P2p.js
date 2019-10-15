@@ -1,4 +1,4 @@
-const wrtc = require("wrtc");
+const wrtc = require("electron-webrtc");
 const Exchange = require("peer-exchange");
 const p2p = new Exchange("Blockchain Demo 2.0", { wrtc: wrtc });
 const net = require("net");
