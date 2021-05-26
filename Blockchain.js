@@ -95,6 +95,30 @@ class Blockchain {
       throw "Error: Invalid block";
     }
   }
+  
+    addBlock(newBlock) {
+    if (this.isValidNextBlock(newBlock, this.latestBlock)) {
+      this.blockchain.push(newBlock);
+    } else {
+      throw "Error: Invalid block";
+    }
+  }
+  
+    addBlock(newBlock) {
+    if (this.isValidNextBlock(newBlock, this.latestBlock)) {
+      this.blockchain.push(newBlock);
+    } else {
+      throw "Error: Invalid block";
+    }
+  }
+  
+    addBlock(newBlock) {
+    if (this.isValidNextBlock(newBlock, this.latestBlock)) {
+      this.blockchain.push(newBlock);
+    } else {
+      throw "Error: Invalid block";
+    }
+  }
 
   isValidNextBlock(nextBlock, previousBlock) {
     const nextBlockHash = this.calculateHashForBlock(nextBlock);
